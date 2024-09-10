@@ -1,6 +1,6 @@
-# my_flutter_project
+# basket ball counter app
 
-A new Flutter project.
+this is update basket ball counter app after applying cubit as a statemangment.
 
 ## Getting Started
 
